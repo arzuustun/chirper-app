@@ -2,19 +2,28 @@
 
 This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
 
-Most of the commits in this repository correspond to videos in the program.
 
 ## Project Setup
 
 * clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
 * install the dependencies - `npm install`
 
-## Contributing
+## Pages
 
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
+1.**Home Page : In this page,you can see tweet list and you can like tweet
 
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
+<p align="center">
+<img src="https://github.com/arzuustun/chirper-app/blob/main/HomePageChirper.PNG" height="450"/>
+</p>
 
-## License
+2.**New Tweet Page : In this page,you can insert new tweet.
 
-MIT
+<p align="center">
+<img src="https://github.com/arzuustun/chirper-app/blob/main/NewTweet.PNG" height="450"/>
+</p>
+
+3.**Reply Tweet Page : In this page,You can reply and like the selected tweet 
+
+<p align="center">
+<img src="https://github.com/arzuustun/chirper-app/blob/main/excerptTweet.PNG" height="450"/>
+</p>
