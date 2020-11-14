@@ -10,19 +10,19 @@ This repo is a code-along with the first project in the [React Nanodegree progra
 
 ## Pages
 
-1.**Home Page : In this page,you can see tweet list and you can like tweet
+1.Home Page : In this page,you can see tweet list and you can like tweet
 
 <p align="center">
 <img src="https://github.com/arzuustun/chirper-app/blob/main/HomePageChirper.PNG" height="450"/>
 </p>
 
-2.**New Tweet Page : In this page,you can insert new tweet.
+2.New Tweet Page : In this page,you can insert new tweet.
 
 <p align="center">
 <img src="https://github.com/arzuustun/chirper-app/blob/main/NewTweet.PNG" height="450"/>
 </p>
 
-3.**Reply Tweet Page : In this page,You can reply and like the selected tweet 
+3.Reply Tweet Page : In this page,You can reply and like the selected tweet 
 
 <p align="center">
 <img src="https://github.com/arzuustun/chirper-app/blob/main/excerptTweet.PNG" height="450"/>
